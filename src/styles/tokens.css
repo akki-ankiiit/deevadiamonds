@@ -87,12 +87,12 @@
   --serif:
     "Cormorant Garamond", "Cormorant", Garamond, "Times New Roman", serif;
   --sans: "DM Sans", "Helvetica Neue", Arial, sans-serif;
-  --fs-display: clamp(3rem, 1.6rem + 5.6vw, 7.25rem);
-  --fs-h1: clamp(2.6rem, 1.7rem + 3.8vw, 5.25rem);
-  --fs-h2: clamp(2.15rem, 1.5rem + 2.7vw, 4rem);
-  --fs-h3: clamp(1.55rem, 1.3rem + 0.9vw, 2.1rem);
-  --fs-h4: clamp(1.25rem, 1.15rem + 0.4vw, 1.5rem);
-  --fs-lead: clamp(1.05rem, 0.98rem + 0.3vw, 1.25rem);
+  --fs-display: clamp(2.6rem, 1.4rem + 4.4vw, 5.6rem);
+  --fs-h1: clamp(2.2rem, 1.5rem + 3vw, 4.1rem);
+  --fs-h2: clamp(1.85rem, 1.3rem + 2.1vw, 3.1rem);
+  --fs-h3: clamp(1.4rem, 1.2rem + 0.7vw, 1.7rem);
+  --fs-h4: clamp(1.15rem, 1.05rem + 0.3vw, 1.3rem);
+  --fs-lead: clamp(0.98rem, 0.92rem + 0.25vw, 1.1rem);
   --fs-body: clamp(0.95rem, 0.92rem + 0.12vw, 1.04rem);
   --fs-small: 0.875rem;
   --fs-label: 0.8125rem;
